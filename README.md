@@ -1,40 +1,59 @@
-```html
-<!-- Banner -->
-<p align="center">
-  <img src="https://images.hdqwalls.com/download/lofi-vibes-4k-h4-1920x1200.jpg" width="100%" />
-</p>
 
-<h1 align="center">Hey, I'm Harshita 👋</h1>
+<!-- Header -->
+<h1 align="center">Hi, I'm Harshita Bhatia</h1>
 
-<p align="center">
+<h3 align="center">
   Computer Engineering Student | Backend Development | AI/ML
-</p>
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshita-bhatia03">LinkedIn</a> •
-  <a href="mailto:harshitabhatia003@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/harshita-bhatia03">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshitabhatia003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### A little about me
+### About Me
 
-```python
-class Harshita:
-    interests = ["Backend Development", "AI/ML"]
-    learning = ["Python", "FastAPI"]
-    motto = "Learning as I go, building as I learn."
-```
+I'm a Computer Engineering student at VESIT, Mumbai, interested in backend development and AI-powered applications.
 
-### Tools I use
+- Developing applications using Python and FastAPI
+- Exploring machine learning, NLP, and LLM-based applications
+- Learning about API development, databases, and software engineering
+- Interested in building practical solutions to real-world problems
+
+### Technical Skills
+
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,fastapi,django,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
+
+**Backend & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,react" />
+</p>
+
+**Databases & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,aws,vscode" />
+</p>
+
+### Currently Exploring
+
+- Backend system design and REST APIs
+- AI/ML integration in applications
+- Writing cleaner, more maintainable code
 
 ---
 
 <p align="center">
-  <i>Still figuring things out, one line of code at a time.</i>
+  <i>Learning continuously. Building thoughtfully. Improving with every project.</i>
 </p>
-```
